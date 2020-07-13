@@ -1,0 +1,15 @@
+.MainContainer{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.UserHeadingContainer{
+    margin: 2%;
+    float: left;
+}
+
+.TableContainer{
+    height: 70%;
+    margin: 3%;
+}
