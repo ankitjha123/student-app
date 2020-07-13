@@ -1,3 +1,6 @@
+### A simple redux-form application using localstorage for authentication and saving data.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
